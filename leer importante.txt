@@ -1,0 +1,26 @@
+Si te gusto el video. Dale like, suscribete,
+comenta y comparte a mi canal. 
+Para seguir contribuyendo con sistemas en php y mysql.
+Y agréguenme al Facebook. Ray Johann chirinos Vásquez
+Dudas y comentarios por este medio.
+
+Usuario y contraseña para ingresar a la intranet de la biblioteca
+----------------
+Usuario: ray
+Contraseña: ray
+----------------
+Posdata: sin criticas/.
+Ruta de instalacion del sistema bibliotecario.
+C:\xampp\htdocs
+------------------------------------------
+en el explorador colocar esta direccion:
+http://localhost/biblioteca/
+------------------------------------------
+
+
+_________________________________________________________
+Bienvenido al Sistema de Biblioteca
+En este sistema es posible administrar los libros, 
+alumnos, docentes, usuarios y prestamos de libros 
+de una biblioteca.
+_________________________________________________________
